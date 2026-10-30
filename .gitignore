@@ -1,0 +1,9 @@
+# Large files are distributed as GitHub Release assets.
+/Project.rar
+/参赛视频.mp4
+/fpga_ES_2026_submit.zip
+
+# Local editor and operating system temporary files.
+/~$*
+/Thumbs.db
+/.DS_Store
